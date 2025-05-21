@@ -8,12 +8,17 @@ This is a serverless Twilio Function that turns your WhatsApp into a personal ex
 
 ---
 
-## Demo Screenshots
+## 📱 WhatsApp Expense Tracker Demo
 
-### 📲 WhatsApp Conversation Screens
+Here are sample interactions with the WhatsApp bot:
 
-![WhatsApp Screenshot 1](./WhatsApp%20Image%202025-04-23%20at%2000.28.18.jpg)
-![WhatsApp Screenshot 2](./WhatsApp%20Image%202025-04-23%20at%2000.30.20.jpg)
+### 🧾 Command Overview & Adding an Expense
+
+![Command Overview](./WhatsApp%20Image%202025-04-23%20at%2000.28.18.jpeg)
+
+### 📊 Another Example Input
+
+![Another Input Example](./WhatsApp%20Image%202025-04-23%20at%2000.30.20.jpeg)
 
 ## Features
 
