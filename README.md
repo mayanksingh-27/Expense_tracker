@@ -8,6 +8,13 @@ This is a serverless Twilio Function that turns your WhatsApp into a personal ex
 
 ---
 
+## Demo Screenshots
+
+### 📲 WhatsApp Conversation Screens
+
+![WhatsApp Screenshot 1](./WhatsApp%20Image%202025-04-23%20at%2000.28.18.jpg)
+![WhatsApp Screenshot 2](./WhatsApp%20Image%202025-04-23%20at%2000.30.20.jpg)
+
 ## Features
 
 - Add expenses via WhatsApp  
